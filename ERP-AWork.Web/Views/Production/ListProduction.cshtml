@@ -1,0 +1,26 @@
+﻿@model List<Products>
+
+
+<div>
+    <h3> List Of Production</h3>
+<table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">ProductName</th>
+                <th scope="col">ProductCategory</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in @Model)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.ProductName</td>
+                    <td>@item.ProductCategory</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+</div>

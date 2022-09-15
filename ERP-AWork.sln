@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{19A5190D-D0B6-41FA-8EB0-5B0401943FAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-AWork.Web", "ERP-AWork.Web\ERP-AWork.Web.csproj", "{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4EE0C83-6539-47DC-A4C5-E294FF28E1D6} = {19A5190D-D0B6-41FA-8EB0-5B0401943FAD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D58D9E-0F47-4C93-B999-46BC5497CDBC}
+	EndGlobalSection
+EndGlobal
