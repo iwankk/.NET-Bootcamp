@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coba\\ERP-AWork.Web\\ERP-AWork.Web.csproj": {}
+    "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\MVC\\ERP-AWork\\ERP-AWork.Web\\ERP-AWork.Web.csproj": {}
   },
   "projects": {
-    "D:\\Coba\\ERP-AWork.Web\\ERP-AWork.Web.csproj": {
+    "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\MVC\\ERP-AWork\\ERP-AWork.Web\\ERP-AWork.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coba\\ERP-AWork.Web\\ERP-AWork.Web.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\MVC\\ERP-AWork\\ERP-AWork.Web\\ERP-AWork.Web.csproj",
         "projectName": "ERP-AWork.Web",
-        "projectPath": "D:\\Coba\\ERP-AWork.Web\\ERP-AWork.Web.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\MVC\\ERP-AWork\\ERP-AWork.Web\\ERP-AWork.Web.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Coba\\ERP-AWork.Web\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Iwan\\Week 2 C#\\MVC\\ERP-AWork\\ERP-AWork.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
