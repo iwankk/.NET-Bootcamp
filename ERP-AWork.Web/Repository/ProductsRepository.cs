@@ -10,7 +10,8 @@ namespace ERP_AWork.Web.Repository
             var ListOfProducts = new List<Products>() {
             new Products { ProductId = 1, ProductName = "Baud", ProductCategory = "Sparepart" },
             new Products { ProductId = 2, ProductName = "Roller AS", ProductCategory = "Sparepart" },
-            new Products { ProductId = 3, ProductName = "ShockBreaker", ProductCategory = "Sparepart" }
+            new Products { ProductId = 3, ProductName = "ShockBreaker", ProductCategory = "Sparepart" },
+            new Products { ProductId = 6, ProductName = "Oli", ProductCategory = "Sparepart" }
 
         };
             return ListOfProducts;
